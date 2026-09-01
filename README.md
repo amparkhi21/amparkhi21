@@ -1,4 +1,4 @@
-<div align="center">
+
 # Hi, I'm Parkhi Kumari 👋
 
 ### 🚀 Aspiring Software Developer | Full-Stack Developer 
