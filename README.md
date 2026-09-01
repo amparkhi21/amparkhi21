@@ -1,226 +1,169 @@
-<div align="center">
-PARKHI KUMARI
+# Hi, I'm Parkhi Kumari 👋
 
-ASPIRING SOFTWARE DEVELOPER
+### 🚀 Aspiring Software Developer | Full-Stack Developer | DSA Enthusiast
 
-Java • Full-Stack Development • DSA • AI & Data Science
+I'm a **B.Tech Computer Science & Engineering (AI & Data Science)** student at **Parul University**, passionate about building responsive, user-focused web applications and solving complex problems using **Data Structures & Algorithms**.
 
-🚀 Building responsive, user-focused web applications and solving problems with Data Structures & Algorithms.
+I enjoy turning ideas into practical applications while continuously improving my skills in software development, problem-solving, and modern web technologies.
 
-<br>
+---
 
+## 👩‍💻 About Me
 
+* 🎓 B.Tech CSE — **AI & Data Science**
+* 💻 Aspiring **Software Developer**
+* 🌐 Interested in **Full-Stack Web Development**
+* 🧠 Strong interest in **Data Structures & Algorithms**
+* 🏆 **Finalist — PU Coding Championship**
+* 🔥 Solved **800+ DSA problems**
+* 📚 400+ problems on **GeeksforGeeks**
+* 💡 400+ problems on **LeetCode**
+* 🤖 Interested in **AI-powered applications**
+* 🚀 Always learning and building
 
+---
 
+## 🛠️ Tech Stack
 
+### Programming Languages
 
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
-🛠️ The Arsenal (Tech Stack)
+### Web Development
 
-Programming
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-Frontend
+### Databases
 
-Backend & APIs
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-Databases
+### Tools & Technologies
 
-Cloud & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 
-Java
+---
 
-HTML
+## 🚀 Featured Project
 
-Node.js
+### 🤖 AI-Powered Learning Platform
 
-MongoDB
+**React.js • Tailwind CSS • Node.js • Express.js • MongoDB • JWT • REST APIs**
 
-Git
+A full-stack learning platform designed around Student and Teacher workflows.
 
-Python
+**Key Features:**
 
-CSS
+* 🔐 JWT authentication and role-based access control
+* 👨‍🎓 Student and Teacher dashboards
+* 📚 Course management
+* 📝 Quizzes and study plans
+* 👥 Community features
+* 🤖 AI-powered personalized study planning
+* 📱 Responsive React.js interface
+* 🔗 RESTful API integration
+* 🗄️ MongoDB database
 
-Express.js
+---
 
-MySQL
+## 🧠 Data Structures & Algorithms
 
-GitHub
+### 800+ Problems Solved
 
-C
+| Platform      | Problems |
+| ------------- | -------: |
+| GeeksforGeeks |     400+ |
+| LeetCode      |     400+ |
+| **Total**     | **800+** |
 
-JavaScript
+Focused on:
 
-REST APIs
+* Arrays & Strings
+* Searching & Sorting
+* Linked Lists
+* Stacks & Queues
+* Trees & Graphs
+* Recursion
+* Dynamic Programming
+* Greedy Algorithms
+* Problem Solving
+* Competitive Programming
 
+---
 
+## 🏆 Achievements
 
-Vercel
+🏅 **Finalist — PU Coding Championship**
+Reached the **Third & Final Round** in my first-ever coding contest, demonstrating skills in DSA, logical thinking, problem-solving, and competitive programming.
 
-C++
+🔥 **800+ DSA Problems Solved**
+Solved 400+ problems on GeeksforGeeks and 400+ on LeetCode.
 
-React.js
+---
 
-JWT
+## 📜 Certifications
 
+* HTML & CSS
+* Python
+* Statistics 101
 
+---
 
-Postman
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
+---
 
+## 🔥 Contribution Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
 
+---
 
+## 🌐 Connect With Me
 
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="YOUR_GFG_URL">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="mailto:pkparkhikumari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
+---
 
-VS Code
+### 💭 My Goal
 
+> **"Build. Solve. Learn. Repeat."**
 
+I'm continuously working on improving my **software development, DSA, and problem-solving skills** and looking forward to contributing to impactful software projects.
 
-
-
-
-
-
-
-Linux / Bash
-
-
-
-
-
-
-
-
-
-AWS
-
-
-
-
-
-
-
-
-
-Microsoft Azure
-
-📊 Engineering Analytics
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-🏆 Key Achievements
-
-Achievement
-
-Details
-
-🧠 800+ DSA Problems
-
-400+ GeeksforGeeks + 400+ LeetCode
-
-🏆 PU Coding Championship Finalist
-
-Reached the Third & Final Round in my first-ever coding contest
-
-💻 Problem Solving
-
-Strong focus on DSA, logical thinking and competitive programming
-
-🎓 B.Tech CSE — AI & Data Science
-
-Parul University, Vadodara
-
-🚀 Key Projects
-
-Project
-
-Description
-
-Tech Stack
-
-AI-Powered Learning Platform
-
-Full-stack learning platform supporting Student & Teacher workflows, authentication, dashboards, courses, quizzes, study plans and community features.
-
-React.js, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, REST APIs
-
-AI Study Planner
-
-Personalized study planning based on exam targets, subjects, study duration and daily study hours.
-
-React.js, Node.js, MongoDB, REST APIs
-
-🧠 Computer Science Fundamentals
-
-Data Structures & Algorithms • Object-Oriented Programming (OOP) • DBMS • Operating Systems • Computer Networks • System Design Basics
-
-📈 DSA Journey
-
-<div align="center">
-
-800+ Problems Solved
-
-400+ GeeksforGeeks   •   400+ LeetCode
-
-<br>
-
-Arrays Strings Searching Sorting Linked Lists Stacks Queues
-Trees Graphs Recursion Dynamic Programming Greedy Problem Solving
-
-</div>
-
-📜 Certifications
-
-HTML & CSS — January 2025
-
-Python — July 2025
-
-Statistics 101 — March 2026
-
-🎓 Education
-
-B.Tech — Computer Science & Engineering (AI & Data Science)
-Parul University, Vadodara, Gujarat
-June 2024 – April 2028
-
-🎯 Current Focus
-
-🚀 Improving Full-Stack Web Development
-
-🧠 Strengthening Data Structures & Algorithms
-
-☕ Deepening Java & OOP
-
-🤖 Exploring AI-powered applications
-
-☁️ Learning and applying Cloud technologies
-
-💼 Preparing for Software Developer / Software Engineer opportunities
-
-<div align="center">
-
-💡 Build • Solve • Learn • Repeat
-
-Thanks for visiting my profile! ⭐
-
-</div>
+⭐ **Thanks for visiting my profile!**
