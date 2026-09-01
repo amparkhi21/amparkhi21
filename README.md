@@ -1,10 +1,8 @@
 # Hi, I'm Parkhi Kumari 👋
 
-### 🚀 Aspiring Software Developer | Full-Stack Developer | DSA Enthusiast
+### 🚀 Aspiring Software Developer | Full-Stack Developer 
 
 I'm a **B.Tech Computer Science & Engineering (AI & Data Science)** student at **Parul University**, passionate about building responsive, user-focused web applications and solving complex problems using **Data Structures & Algorithms**.
-
-I enjoy turning ideas into practical applications while continuously improving my skills in software development, problem-solving, and modern web technologies.
 
 ---
 
