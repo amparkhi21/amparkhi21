@@ -1,5 +1,4 @@
 <div align="center">
-
 PARKHI KUMARI
 
 ASPIRING SOFTWARE DEVELOPER
