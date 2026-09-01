@@ -64,18 +64,6 @@ A full-stack learning platform designed around Student and Teacher workflows.
 | LeetCode      |     400+ |
 | **Total**     | **800+** |
 
-Focused on:
-
-* Arrays & Strings
-* Searching & Sorting
-* Linked Lists
-* Stacks & Queues
-* Trees & Graphs
-* Recursion
-* Dynamic Programming
-* Greedy Algorithms
-* Problem Solving
-* Competitive Programming
 
 ---
 
