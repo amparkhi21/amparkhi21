@@ -6,20 +6,6 @@
 I'm a **B.Tech Computer Science & Engineering (AI & Data Science)** student at **Parul University**, passionate about building responsive, user-focused web applications and solving complex problems using **Data Structures & Algorithms**.
 
 ---
-
-## 👩‍💻 About Me
-
-* 🎓 B.Tech CSE — **AI & Data Science**
-* 💻 Aspiring **Software Developer**
-* 🌐 Interested in **Full-Stack Web Development**
-* 🧠 Strong interest in **Data Structures & Algorithms**
-* 🏆 **Finalist — PU Coding Championship**
-* 🔥 Solved **800+ DSA problems**
-* 📚 400+ problems on **GeeksforGeeks**
-* 💡 400+ problems on **LeetCode**
-* 🤖 Interested in **AI-powered applications**
-* 🚀 Always learning and building
-
 ---
 
 ## 🛠️ Tech Stack
@@ -65,18 +51,6 @@ I'm a **B.Tech Computer Science & Engineering (AI & Data Science)** student at *
 **React.js • Tailwind CSS • Node.js • Express.js • MongoDB • JWT • REST APIs**
 
 A full-stack learning platform designed around Student and Teacher workflows.
-
-**Key Features:**
-
-* 🔐 JWT authentication and role-based access control
-* 👨‍🎓 Student and Teacher dashboards
-* 📚 Course management
-* 📝 Quizzes and study plans
-* 👥 Community features
-* 🤖 AI-powered personalized study planning
-* 📱 Responsive React.js interface
-* 🔗 RESTful API integration
-* 🗄️ MongoDB database
 
 ---
 
