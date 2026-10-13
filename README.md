@@ -56,7 +56,7 @@ A full-stack learning platform designed around Student and Teacher workflows.
 
 ## 🧠 Data Structures & Algorithms
 
-### 800+ Problems Solved
+### 1000+ Problems Solved
 
 | Platform      | Problems |
 | ------------- | -------: |
