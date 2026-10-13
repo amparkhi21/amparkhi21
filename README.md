@@ -60,9 +60,9 @@ A full-stack learning platform designed around Student and Teacher workflows.
 
 | Platform      | Problems |
 | ------------- | -------: |
-| GeeksforGeeks |     400+ |
-| LeetCode      |     400+ |
-| **Total**     | **800+** |
+| GeeksforGeeks |     500+ |
+| LeetCode      |     500+ |
+| **Total**     | **1000+** |
 
 
 ---
@@ -72,8 +72,8 @@ A full-stack learning platform designed around Student and Teacher workflows.
 🏅 **Finalist — PU Coding Championship**
 Reached the **Third & Final Round** in my first-ever coding contest, demonstrating skills in DSA, logical thinking, problem-solving, and competitive programming.
 
-🔥 **800+ DSA Problems Solved**
-Solved 400+ problems on GeeksforGeeks and 400+ on LeetCode.
+🔥 **1000+ DSA Problems Solved**
+Solved 500+ problems on GeeksforGeeks and 500+ on LeetCode.
 
 ---
 
@@ -82,19 +82,20 @@ Solved 400+ problems on GeeksforGeeks and 400+ on LeetCode.
 * HTML & CSS
 * Python
 * Statistics 101
+* AWS
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/parkhi-kumari/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_LEETCODE_URL">
+  <a href="https://leetcode.com/u/amparkhi21/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="YOUR_GFG_URL">
+  <a href="https://www.geeksforgeeks.org/profile/pkparkhik">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
   <a href="mailto:pkparkhikumari@gmail.com">
